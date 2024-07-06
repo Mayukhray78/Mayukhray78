@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukhray78&label=Profile%20views&color=0e75b6&style=flat" alt="mayukhray78" /> </p>
 
-- 🔭 I’m currently working on **Research internship under the guidance of VIT**
+
 
 - 💬 Ask me about **Android, MEARN**
 
