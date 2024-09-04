@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif​)](https://Mayukhray78.io​)
 <h1 align="center">Hi 👋, I'm Mayukh Ray</h1>
-<h3 align="center">An enthusiastic Software Developer and Web Developer from India, committed to delivering high-quality solutions through innovative coding practices and web development techniques.
+<h3 align="center">An passionate Software Developer and Web Developer from India dedicated to providing high-quality solutions using novel coding practices and web development methodologies.
 
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
